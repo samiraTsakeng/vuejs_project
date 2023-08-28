@@ -1,15 +1,17 @@
 <template>
-  <div>
+  <div class="adjust">
     <h1 class="header-title">
-      FIND YOUR<br /><span>INTERNSHIP</span><br />
+      FIND YOUR<br><span>INTERNSHIP</span><br>
       OR JOB EASILY
     </h1>
-  </div>
+    </div>
+   
 </template>
 
 <script>
 export default {
-    name: 'PictureHeader'
+  name: "PictureHeader",
 };
 </script>
+
 
